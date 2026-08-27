@@ -40,6 +40,17 @@ The goal of MindTrace is to encourage users to develop healthier digital habits,
 - Additional wellness activities
 - Enhanced user experience
 
+## 📸 Screenshots
+
+### Login
+![Login](login.jpeg)
+
+### Home Dashboard
+![Home](homedashboqard.jpeg)
+
+### Mood Tracker
+![Mood Tracker](moodtracker.jpeg)
+
 ## 👩‍💻 Developer
 
 **Sri Akshaya R**
