@@ -46,10 +46,19 @@ The goal of MindTrace is to encourage users to develop healthier digital habits,
 ![Login](login.jpeg)
 
 ### Home Dashboard
-![Home](homedashboqard.jpeg)
+![Home](homedashboaqard.jpeg)
 
 ### Mood Tracker
 ![Mood Tracker](moodtracker.jpeg)
+
+### Habit Tracker
+![Habit Tracker](habittracker.jpeg)
+
+### focus
+![Focus](focus.jpeg)
+
+### emergencysupport
+![Emergency Support](emergencysupport.jpeg)
 
 ## 👩‍💻 Developer
 
